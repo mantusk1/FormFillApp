@@ -21,7 +21,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
-    <label for="aadhar"><b>Aadhar</b></label>
+    <label for="aadhar"><b>Aadhar Nuber</b></label>
     <input type="aadhar" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
