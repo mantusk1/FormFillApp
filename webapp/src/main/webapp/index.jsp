@@ -21,11 +21,16 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
+    <label for="aadhar"><b>Email</b></label>
+    <input type="aadhar" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
+    <br>
+
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
+   </div>
 </form>
