@@ -26,7 +26,7 @@
     <br>
 
     <label for="mother"><b>Mother Name</b></label>
-    <input type="mother" placeholder="Enter aadhar" name="mother" id="mother" required>
+    <input type="mother" placeholder="Mother Name" name="mother" id="mother" required>
     <br>
 
 
