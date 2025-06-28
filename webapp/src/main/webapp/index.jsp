@@ -25,6 +25,10 @@
     <input type="password" placeholder="Aadhar Number" name="Aadhar" id="Aadhar" required>
     <br>
 
+    <label for="mother"><b>Mother Name</b></label>
+    <input type="mother" placeholder="Mother Name" name="mother" id="mother" required>
+    <br>
+
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
