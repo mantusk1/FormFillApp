@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy Devops Student Registration NewForm!!</h1>
+    <h1>Welcome!! Saidemy Devops Student Registration Form!!</h1>
     <p>Please fill in this form!</p>
     <hr>
     <br>
@@ -20,20 +20,6 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
-
-    <label for="aadhar"><b>Aadhar Number</b></label>
-    <input type="aadhar" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
-    <br>
-
-    <label for="mother"><b>Mother Name</b></label>
-    <input type="mother" placeholder="Mother Name" name="mother" id="mother" required>
-    <br>
-    
-     <label for="father"><b>Father Name</b></label>
-    <input type="father" placeholder="Father Name" name="father" id="father" required>
-    <br>
-
-
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
